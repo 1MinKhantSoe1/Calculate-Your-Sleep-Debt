@@ -2,9 +2,7 @@
 
 How much is your sleep debt?
 
-    This program is calculate 5 days of the total hours of sleep and sleep-debt for user. If user is sleep over 40 hours
-    this message will show "You are getting enough sleep. Lucky!" or not this message will show "Your sleep debt over
-    this time is: (user sleep debt hours) You need more sleep!".
+This program is calculate 5 days of the total hours of sleep and sleep-debt for user. If user is sleep over 40 hours this message will show "You are getting enough sleep. Lucky!" or not this message will show "Your sleep debt over this time is: (user sleep debt hours) You need more sleep!".
 
     The program workflow are follow:
 
